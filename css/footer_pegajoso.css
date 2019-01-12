@@ -1,0 +1,23 @@
+body
+{
+    margin: 0;
+}
+header
+{
+    border: 5px red solid;
+    height: 200px;
+    margin: auto;
+}
+
+footer
+{
+    border: 5px solid red;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+/*para realizar este menu pegajoso se coloca fijo y se arraca en posicones 
+de cero en la izquiera y derecha
+ */

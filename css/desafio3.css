@@ -1,0 +1,12 @@
+#elemento
+{
+    height: 500px;
+    width: 500px;
+    border: 1px solid red;
+    display: none;
+}
+
+#elemento p:hover
+{
+    display: block;
+}
